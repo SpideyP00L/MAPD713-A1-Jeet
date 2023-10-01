@@ -1,7 +1,6 @@
 let SERVER_NAME = 'Assignment 1'
 let PORT = 5000;
 let HOST = '127.0.0.1:5000';
-
 let errors = require('restify-errors');
 let restify = require('restify')
 
